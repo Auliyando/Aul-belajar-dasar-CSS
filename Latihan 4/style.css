@@ -1,4 +1,5 @@
 body{
-    background-color: gray;
+    background-color: white;
     background-image: url(more-leaves.png);
+    background-repeat: no-repeat;
 }
