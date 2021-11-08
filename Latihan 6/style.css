@@ -11,3 +11,12 @@
 .hello:visited{
     color: greenyellow;
 }
+li:first-child a{
+    color: grey;
+}
+li:nth-child(4) a{
+    color: black;
+}
+li:last-child a{
+    color: red;
+}
