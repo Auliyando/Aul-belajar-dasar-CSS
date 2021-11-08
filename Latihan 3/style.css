@@ -2,3 +2,6 @@ h1{
     color:aliceblue;
     font-size: 100px;
 }
+p{
+    text-align: justify;
+}
